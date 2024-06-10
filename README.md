@@ -60,7 +60,7 @@ sh scripts/trivia_qa/ue_pipeline_llama-13b.sh
 Please cite our paper if you feel this is helpful:
 ```shell
 @article{duan2023shifting,
-  title={Shifting attention to relevance: Towards the uncertainty estimation of large language models},
+  title={Shifting Attention to Relevance: Towards the Predictive Uncertainty Quantification of Free-Form Large Language Models},
   author={Duan, Jinhao and Cheng, Hao and Wang, Shiqi and Wang, Chenan and Zavalny, Alex and Xu, Renjing and Kailkhura, Bhavya and Xu, Kaidi},
   journal={arXiv preprint arXiv:2307.01379},
   year={2023}
