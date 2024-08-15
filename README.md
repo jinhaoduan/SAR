@@ -5,6 +5,10 @@
 
 The proposed Shifting-Attention-to-Relevance (SAR) is implemented in this codebase. 
 
+## Updates
+
+**[8/2024]** 🎉🎉 Glad to know that SAR is ranked **1st** among 28 LLM uncertainty quantification methods in the [LM-Polygraph](https://github.com/IINemo/lm-polygraph?tab=readme-ov-file) Libiary. Please also check their implementation and [paper](https://arxiv.org/pdf/2406.15627).
+
 ## Environments
 
 Please config environment by 
