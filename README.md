@@ -63,11 +63,12 @@ sh scripts/trivia_qa/ue_pipeline_llama-13b.sh
 ## Reference
 Please cite our paper if you feel this is helpful:
 ```shell
-@article{duan2023shifting,
+@inproceedings{duan2024shifting,
   title={Shifting Attention to Relevance: Towards the Predictive Uncertainty Quantification of Free-Form Large Language Models},
-  author={Duan, Jinhao and Cheng, Hao and Wang, Shiqi and Wang, Chenan and Zavalny, Alex and Xu, Renjing and Kailkhura, Bhavya and Xu, Kaidi},
-  journal={arXiv preprint arXiv:2307.01379},
-  year={2023}
+  author={Duan, Jinhao and Cheng, Hao and Wang, Shiqi and Zavalny, Alex and Wang, Chenan and Xu, Renjing and Kailkhura, Bhavya and Xu, Kaidi},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={5050--5063},
+  year={2024}
 }
 ```
 
